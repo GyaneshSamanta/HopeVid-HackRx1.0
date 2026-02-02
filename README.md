@@ -1,23 +1,27 @@
 # HopeVid 🏥
 
 <div align="center">
-  <img src="Web-Components/assets/banner.png" alt="HopeVid Banner" width="100%">
+  <img src="Web-Components/assets/banner.png" alt="HopeVid Banner" width="60%">
 </div>
 
-## 🏆 Achievement: 2nd Runners Up @ HackRx 1.0 (Bajaj Finserv)
+<div align="center">
+
+### 🏆 Secured 2nd Runner Up @ HackRx 1.0 (Bajaj Finserv) 🥉
+
+[![Hackathon](https://img.shields.io/badge/HackRx%201.0-2nd%20Runners%20Up-orange?style=for-the-badge&logo=eventbrite)](https://www.bajajfinservhealth.in/hackrx)
+[![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge&logo=checkmarx)](https://github.com/GyaneshSamanta/Team-codeBlooded)
+[![Team](https://img.shields.io/badge/Team-codeBlooded-red?style=for-the-badge&logo=github)](https://github.com/GyaneshSamanta/Team-codeBlooded/graphs/contributors)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://lbesson.mit-license.org/)
+
+</div>
+
+---
+
+## 🎖️ The Achievement
 
 **HopeVid** was developed as the official entry of **Team codeBlooded** from SRM Institute of Science and Technology, Kattankulathur, for the **HackRx 1.0** hackathon organized by **Bajaj Finserv Health**. We are proud to announce that this project secured the **2nd Runner Up** position among numerous innovative solutions.
 
 ---
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge&logo=checkmarx)](https://github.com/GyaneshSamanta/Team-codeBlooded)
-[![Hackathon](https://img.shields.io/badge/Hackathon-HackRx%201.0-blue?style=for-the-badge&logo=eventbrite)](https://www.bajajfinservhealth.in/hackrx)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://lbesson.mit-license.org/)
-[![Collaborators](https://img.shields.io/badge/Team-codeBlooded-red?style=for-the-badge&logo=github)](https://github.com/GyaneshSamanta/Team-codeBlooded/graphs/contributors)
-
-</div>
 
 ## 🌐 Overview
 
